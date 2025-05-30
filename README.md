@@ -1,16 +1,26 @@
-## Hi there 👋
+👋 Olá, eu sou o Mauricio!
 
-<!--
-**mauriciosfyt/mauriciosfyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor apaixonado por tecnologia, tenho 18 anos e estou sempre buscando aprender e criar coisas incríveis!
 
-Here are some ideas to get you started:
+🚀 Tecnologias que domino:
+- 🐍 Python
+- ☕ Java
+- 🖥️ JavaScript
+- 🌐 HTML & CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Sempre estudando, explorando e evoluindo. Curioso por novas linguagens, frameworks e tudo que envolve desenvolvimento!
+
+✨ **“Transformando café em código e sonhos em projetos!”** ☕💻
+
+---
+
+## 📊 Minhas Estatísticas no GitHub:
+
+![Mauricio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mauriciosfyt&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciosfyt&layout=compact&theme=radical)
+
+---
+
+## 🔗 Conecte-se comigo:
+⭐ Fique de olho nos meus repositórios, muita coisa legal vem aí! 🚀
