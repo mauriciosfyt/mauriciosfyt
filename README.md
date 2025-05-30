@@ -24,4 +24,4 @@
 
 ## 🔗 Conecte-se comigo:
 ⭐ Fique de olho nos meus repositórios, muita coisa legal vem aí! 🚀
-![snake gif](https://github.com/mauriciosfyt/mauriciosfyt/blob/output/github-contribution-grid-snake-dark.svg)
+
