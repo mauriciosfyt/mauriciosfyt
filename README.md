@@ -24,10 +24,6 @@
 
 ---
 
-## 🐍 Snake no GitHub:
-
-![snake gif](https://github.com/mauriciosfyt/mauriciosfyt/blob/output/github-contribution-grid-snake-dark.svg)
-
 ---
 
 ## 🔗 Conecte-se comigo:
